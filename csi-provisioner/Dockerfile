@@ -1,1 +1,1 @@
-from registry.k8s.io/sig-storage/csi-provisioner:v3.4.0
+from registry.k8s.io/sig-storage/csi-provisioner:v5.0.1
